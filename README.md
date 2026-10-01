@@ -47,6 +47,13 @@ The repository structure is still evolving and may be normalized as development 
 - Treat memory, decisions, and project history as first-class data
 - Keep the creator in control
 
+## ✦ Documentation
+
+- [Roadmap](docs/ROADMAP.md)
+- [Architecture](docs/ARCHITECTURE.md)
+- [Repository structure](docs/REPOSITORY_STRUCTURE.md)
+- [Changelog](CHANGELOG.md)
+
 ---
 
 <div align="center">
