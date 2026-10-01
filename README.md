@@ -1,3 +1,5 @@
+![NovelCompanion — AI-assisted creative studio](./assets/banner.svg)
+
 <div align="center">
 
 # NovelCompanion
